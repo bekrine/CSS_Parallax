@@ -70,7 +70,7 @@ z-index: 5;
 .info{
    position: relative;
    z-index: 99;
-    background: url('./images/bg-old1.jpeg') ;
+    background: url('images/bg-old1.jpeg') ;
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center;
