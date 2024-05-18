@@ -96,8 +96,5 @@ z-index: 5;
     }
  
 }
-@keyframes horizontal_scroll_animation {
-    to{
-        transform: translateX(var(--scroll-speed));
-    }
-}
+
+
